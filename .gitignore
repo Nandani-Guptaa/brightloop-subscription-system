@@ -1,0 +1,4 @@
+brightloop.db
+.secret
+__pycache__/
+*.pyc
